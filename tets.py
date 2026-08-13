@@ -1,3 +1,3 @@
 print("Hello, world!")
 print("world, Hello!")
-a = 0
+a = 5
