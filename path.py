@@ -3,4 +3,4 @@ for i in range(10):
     print(i)
     
     
-print("999")
+print("666")
